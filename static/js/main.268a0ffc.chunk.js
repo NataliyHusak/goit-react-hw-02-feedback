@@ -1,2 +1,0 @@
-(this["webpackJsonpgoit-react-hw-02-fnpneedback"]=this["webpackJsonpgoit-react-hw-02-fnpneedback"]||[]).push([[0],[function(n,e,t){n.exports=t(1)},function(n,e){}],[[0,1]]]);
-//# sourceMappingURL=main.268a0ffc.chunk.js.map
